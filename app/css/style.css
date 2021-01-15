@@ -655,7 +655,8 @@ p {
   display: -ms-flexbox;
   display: flex;
   margin: 0 auto;
-  pointer-events: none; }
+  pointer-events: none;
+  min-height: 600px; }
 
 .frist-screen__block-bottom {
   max-width: 950px;
