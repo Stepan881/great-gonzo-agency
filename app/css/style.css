@@ -310,7 +310,7 @@ template {
 @font-face {
   font-family: "OCRF";
   font-display: swap;
-  src: url("../fonts/OCRF.woff") format("woff"), url("../fonts/OCRF.woff2") format("woff2");
+  src: url("./../../fonts/OCRF.woff") format("woff"), url("./../../fonts/OCRF.woff2") format("woff2");
   font-weight: 400;
   font-style: normal; }
 
@@ -553,7 +553,7 @@ p {
       padding: 20px 20px 135px; } }
 
 .frist-screen__info {
-  background: url(../../img/prompt.png) no-repeat;
+  background: url(../img/prompt.png) no-repeat;
   background-size: 100% 100%;
   padding: 27px 35px 70px;
   text-align: center;
@@ -738,7 +738,7 @@ p {
     .program__item::before {
       position: absolute;
       content: '';
-      background: url("../../img/plus.svg") center no-repeat;
+      background: url("./../../img/plus.svg") center no-repeat;
       width: 57px;
       height: 51px;
       left: 46px;
