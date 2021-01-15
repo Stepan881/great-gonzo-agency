@@ -738,7 +738,7 @@ p {
     .program__item::before {
       position: absolute;
       content: '';
-      background: url("../../img/plus.svg") center no-repeat;
+      background: url("../img/plus.svg") center no-repeat;
       width: 57px;
       height: 51px;
       left: 46px;
